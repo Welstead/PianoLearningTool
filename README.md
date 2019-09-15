@@ -2,6 +2,8 @@
 
 #### Learn Piano songs without using sheet music
 
+[![Watch the video](https://i.gyazo.com/34f8f51997283ae48b9dd0a234735cd1.jpg)](https://www.youtube.com/watch?v=Dx06YGl9Vbw&feature=youtu.be)
+
 ## Why use this over sheet music?
 
 Sheet music and the skill of reading music in general can be quite daunting, this project was designed to help eliminate the intimidation 
